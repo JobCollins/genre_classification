@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/jobdulo/Documents/genre_classification/mlruns/0/1a2113098b3a4ddeb5f914e657e181e3/artifacts
+end_time: 1646626272261
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1a2113098b3a4ddeb5f914e657e181e3
+run_uuid: 1a2113098b3a4ddeb5f914e657e181e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1646626137221
+status: 3
+tags: []
+user_id: jobdulo

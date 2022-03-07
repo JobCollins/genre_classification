@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-03-07T04:09:40.900290",
+    "startedAt": "2022-03-07T04:09:39.665827",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/JobCollins/genre_classification.git",
+        "commit": "f04aa6df87f4dab703627083a0f1c3d1f52eae62"
+    },
+    "email": "dulo.collins@gmail.com",
+    "root": "/Users/jobdulo/Documents/genre_classification",
+    "host": "Jobs-MacBook-Air.local",
+    "username": "jobdulo",
+    "executable": "/Users/jobdulo/opt/anaconda3/envs/mlflow-7935179ebad649ef7e3a1d065dccb2eb9b466457/bin/python"
+}

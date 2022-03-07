@@ -1,0 +1,31 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2022-03-07T04:09:02.669759",
+    "startedAt": "2022-03-07T04:09:01.495808",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--file_url",
+        "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises/blob/master/lesson-2-data-exploration-and-preparation/exercises/exercise_4/starter/genres_mod.parquet?raw=true",
+        "--artifact_name",
+        "raw_data.parquet",
+        "--artifact_type",
+        "raw_data",
+        "--artifact_description",
+        "Data as downloaded"
+    ],
+    "state": "running",
+    "program": "download_data.py",
+    "codePath": "download/download_data.py",
+    "git": {
+        "remote": "https://github.com/JobCollins/genre_classification.git",
+        "commit": "f04aa6df87f4dab703627083a0f1c3d1f52eae62"
+    },
+    "email": "dulo.collins@gmail.com",
+    "root": "/Users/jobdulo/Documents/genre_classification",
+    "host": "Jobs-MacBook-Air.local",
+    "username": "jobdulo",
+    "executable": "/Users/jobdulo/opt/anaconda3/envs/mlflow-05353a8422ad1378969a2083460818b25266b25e/bin/python"
+}
